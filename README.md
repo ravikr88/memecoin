@@ -50,3 +50,7 @@ npx hardhat ignition deploy ignition/modules/Factory.js --network localhost --re
 npm run dev
 
 ```
+### visual diagram
+<img width="1303" height="647" alt="Screenshot 2025-08-09 at 13 56 41" src="https://github.com/user-attachments/assets/c9708d42-c626-40a7-a34b-572c73330b41" />
+
+
